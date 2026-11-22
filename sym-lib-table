@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lte-blepis")(type "KiCad")(uri "${KIPRJMOD}/lte-blepislib.pretty/lte-blepis.kicad_sym")(options "")(descr ""))
+)

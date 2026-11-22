@@ -1,0 +1,295 @@
+(footprint "Panasonic_EVQPUL_EVQPUC"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf")
+	(tags "SMD SMT SPST EVQPUL EVQPUC")
+	(property "Reference" "SW2"
+		(at -0.910001 3.094999 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "21261799-6a2d-4563-b628-72f79629a18c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "EVQPUL02K"
+		(at 0 3.499999 0)
+		(layer "F.Fab")
+		(uuid "d1af8f5d-2243-4394-a089-9fec0f252b70")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a5a1914-874e-416d-a06f-8ee7ae99f0b3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a80d26d-b9c4-48bd-a465-191d0baaa19f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Alternatives" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "de4fb7f5-c62b-48f6-83c9-fa0eb1e27340")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "lte-blepis.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.450002 0.275001)
+		(end -2.450001 -0.274998)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "41832aa6-9d74-47cf-bb9a-4ad808a3739b")
+	)
+	(fp_line
+		(start -1.425002 -1.85)
+		(end -2.350004 -1.850001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "655e3fff-d7bf-407d-a54f-6dff93823e7b")
+	)
+	(fp_line
+		(start 2.349997 -1.85)
+		(end 1.425001 -1.850002)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e90f47d5-50a7-49f0-8b35-cbeb7b47877e")
+	)
+	(fp_line
+		(start 2.350004 1.850001)
+		(end -2.349997 1.85)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0bedc434-dab9-4eb2-bb7f-0998fac66f5f")
+	)
+	(fp_line
+		(start 2.450001 0.274998)
+		(end 2.450002 -0.275001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b31d3df-33e4-496c-99f2-cad0d1677c4d")
+	)
+	(fp_line
+		(start -3.899997 2.249999)
+		(end -3.899997 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e7b133a1-524f-4be5-b8ef-068359bfd5a0")
+	)
+	(fp_line
+		(start 3.900001 -3.249997)
+		(end -3.899997 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9a98199c-0e0f-48f8-8f3b-44521e4af5a3")
+	)
+	(fp_line
+		(start 3.900001 2.249999)
+		(end -3.899997 2.249999)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "76f56367-e610-48b7-b927-2489f77b73da")
+	)
+	(fp_line
+		(start 3.900001 2.249999)
+		(end 3.900001 -3.249997)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ff32591a-de1e-4904-b8f1-8332326845af")
+	)
+	(fp_line
+		(start -2.350001 1.749998)
+		(end -2.349998 -1.749999)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ee8fb6d4-9885-4dec-8d3b-8490b258d48c")
+	)
+	(fp_line
+		(start -1.3 -2.75)
+		(end -1.300005 -1.750003)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b6aa8f0b-bab1-4d6b-a750-92a19050020b")
+	)
+	(fp_line
+		(start 1.3 -2.75)
+		(end -1.3 -2.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ea0d054-10dd-4879-8565-52b1a544b1f9")
+	)
+	(fp_line
+		(start 1.3 -2.75)
+		(end 1.3 -1.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "af8e97e7-176e-46f6-94f9-941a2b207dd1")
+	)
+	(fp_line
+		(start 2.349998 1.749999)
+		(end -2.350001 1.749998)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6accf321-feaa-4767-aa61-cd3950ccf4a5")
+	)
+	(fp_line
+		(start 2.349998 1.749999)
+		(end 2.350001 -1.749998)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a1129523-b34e-407e-9ead-34ed0f8c8280")
+	)
+	(fp_line
+		(start 2.350001 -1.749998)
+		(end -2.349998 -1.749999)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dc04f846-dfa2-4e76-8315-016e790e7e67")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "724d9db3-9d4f-4d7e-8f9f-81c4993b05da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -0.000001 1.374999 180)
+		(size 0.75 0.75)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(uuid "18f0e065-a9ce-4074-8d09-19bdd3c2eb61")
+	)
+	(pad "" np_thru_hole circle
+		(at 0.000001 -1.374999 180)
+		(size 0.75 0.75)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(uuid "dc07cbf7-39ad-4020-8c1c-76ac48011b53")
+	)
+	(pad "1" smd rect
+		(at -2.624997 -0.849997 180)
+		(size 1.55 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ec10f3f8-f2e1-4dd3-858b-ee50b10df55b")
+	)
+	(pad "1" smd rect
+		(at 2.625002 -0.85 180)
+		(size 1.55 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "502114d5-ee68-4bf0-810f-c6a00dd49466")
+	)
+	(pad "2" smd rect
+		(at -2.625002 0.85 180)
+		(size 1.55 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5d1cce9b-beef-4b8c-a0ca-74574d836a87")
+	)
+	(pad "2" smd rect
+		(at 2.624997 0.849997 180)
+		(size 1.55 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "49750024-9c89-46be-b307-83bbeade7826")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Panasonic_EVQPUL_EVQPUC.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
