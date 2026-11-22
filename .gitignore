@@ -46,3 +46,5 @@ gerbers/
 
 .DS_Store
 lte-blepislib.pretty/.DS_Store
+
+.history/
